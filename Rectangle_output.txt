@@ -1,0 +1,45 @@
+The length is 50
+The Width is 100
+The Area is 5000
+The Perimeter is 300
+
+The length is 20
+The Width is 22
+The Area is 440
+The Perimeter is 84
+
+The length is 5
+The Width is 10
+The Area is 50
+The Perimeter is 30
+
+The length is 22
+The Width is 2
+The Area is 44
+The Perimeter is 48
+
+The length is 4
+The Width is 3
+The Area is 12
+The Perimeter is 14
+
+The length is 2
+The Width is 1
+The Area is 2
+The Perimeter is 6
+
+The length is 8
+The Width is 9
+The Area is 72
+The Perimeter is 34
+
+The length is 22
+The Width is 9
+The Area is 198
+The Perimeter is 62
+
+The length is 45
+The Width is 9
+The Area is 405
+The Perimeter is 108
+
